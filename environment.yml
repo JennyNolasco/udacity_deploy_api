@@ -1,0 +1,17 @@
+name: heroku
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7.6
+  - fastapi
+  - dvc
+  - uvicorn
+  - scikit-learn
+  - pandas
+  - numpy
+  - pytest
+  - jupyter
+  - jupyterlab
+  - git
+
